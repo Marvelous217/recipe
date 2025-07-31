@@ -1,0 +1,83 @@
+body{
+  background-color: #f3e5d8;
+color:  hsl(30, 10%, 34%);
+margin: auto;
+padding-left: 50px;
+margin-top: 0;
+box-sizing: border-box;
+font-weight: 400;
+font-family:[Young Serif](https://fonts.google.com/specimen/Young+Serif);
+
+}
+.real{ color: hsl(24, 5%, 18%);
+margin-top: -30px;
+}
+h2{
+    color:  hsl(332, 51%, 32%);
+    
+}
+.preparation{
+    background-color: #f3e5d8 ;
+    width: 620px;
+    border-radius: 10px;
+}
+    
+
+.card{
+    height: 1550px;
+    width: 700px;
+    background-color: white;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+img{
+    height: 380px;
+    width: 620px;
+    margin: auto;
+      padding: 50px;
+      border-radius: 20px;
+      
+    
+  
+}
+
+section{
+    padding-left: 50px;
+}
+table{
+    
+
+    table {
+      width: 300px;
+      border-collapse: collapse;
+      margin-top: 15px;
+      font-size: 16px;
+    }
+
+    td {
+      padding: 12px 80px;
+      border-bottom: 1px solid #ddd;
+      
+    }
+
+.spike{
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+.tea{
+    
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+.you{
+    
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+.run{
+    
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
